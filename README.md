@@ -1,16 +1,16 @@
 # 🎬 shorts-splicer
  
-A program that lets you automatically split up existing shorts and reupload them to YouTube and TikTok.
+A program that lets you automatically split up existing shorts and reupload them to YouTube and TikTok. In other words, it's a meme content regurgitator. You can find an example of this project in action [here](https://www.tiktok.com/@scoutbytes)!
 
-> [!WARNING]  
+> [!WARNING]
 > This project is no longer actively maintained. The code is available for demonstration purposes, but please be aware that no updates or support will be provided for it.
 
 ## How it works
-When you run the program, it will ask you if you want to split up your video, or construct one using clips you've already split up.
+When you run the program, it will ask you if you want to split up a video, or construct a new one using clips you've already split up.
 
 If you choose to split up a video, it will:
 - Prompt you for the path to the video you want to split up
-- Automatically detect scenes in the video
+- Automatically detect scenes (cuts) in the video
 - Split the video into multiple clips and save them to `/clips`
 
 If you choose to construct a new video, it will:
