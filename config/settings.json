@@ -1,0 +1,39 @@
+{
+  "part": 8,
+  "threshold": 10,
+  "clips_per_video": 6,
+  "delete_after_use": true,
+  "youtube": {
+    "enabled": false,
+    "title": "memes i found on the internet #{part} - #shorts",
+    "description": "\ud83c\udfa5 subscribe!",
+    "privacy": "private",
+    "tags": [
+      "meme",
+      "compilation",
+      "tiktok",
+      "tik tok",
+      "1 hour",
+      "offensive",
+      "dank",
+      "dankmemes",
+      "sensitive",
+      "laugh",
+      "iylyl",
+      "ylyl",
+      "daily",
+      "unusual",
+      "vine",
+      "cringe",
+      "you laugh you lose",
+      "memes i found on discord",
+      "memes i found on tiktok",
+      "memes that keep me up at night",
+      "memes i found on the internet",
+      "memes i found on tiktok"
+    ]
+  },
+  "tiktok": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,4 @@
+scenedetect[opencv]<0.7
+simple-youtube-api
+moviepy==1.0.3
+send2trash
