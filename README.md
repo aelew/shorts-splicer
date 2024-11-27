@@ -11,12 +11,12 @@ When you run the program, it will ask you if you want to split up a video, or co
 If you choose to split up a video, it will:
 - Prompt you for the path to the video you want to split up
 - Automatically detect scenes (cuts) in the video
-- Split the video into multiple clips and save them to `/clips`
+- Split the video into multiple clips and save them to `clips/`
 
 If you choose to construct a new video, it will:
-- Choose a random selection of clips from `/clips`
+- Choose a random selection of clips from `clips/`
 - Concatenate the chosen clips into a new video
-- Delete the old clips from `/clips`
+- Delete the old clips from `clips/`
 - Upload the new video to the platform of your choice.
 
 Settings can be customized in [config/settings.json](config/settings.json).  
